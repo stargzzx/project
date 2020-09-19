@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 陕西师范大学智能感知与先进计算研究中心项目记录
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Mr.Li
+language: zh-CN
 timezone: ''
 
 # URL
@@ -99,6 +99,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: tree
+
+# 加密
+encrypt:
+  enable: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
